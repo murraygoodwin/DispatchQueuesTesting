@@ -7,6 +7,7 @@
 
 /// This demo simulates retrieving 'coffee shops' data (e.g. from JSON) on a background queue,
 /// saving / updating it in Realm and updating a user interface on the main thread.
+/// Requires the pod: 'RealmSwift'
 
 import UIKit
 import RealmSwift
